@@ -1,0 +1,7 @@
+patches
+dmenu
+dmenu_path
+dmenu_run
+*.orig
+*.rej
+*.o
