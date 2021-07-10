@@ -2,8 +2,8 @@
 
 static int topbar = 1;
 static const char *fonts[] = {
-	"monospace:size=8",
-	"Noto Color Emoji:size=8"
+	"monospace:size=10",
+	"Noto Color Emoji:size=10"
 };
 static const char *prompt      = NULL;
 static const char *colors[SchemeLast][2] = {
